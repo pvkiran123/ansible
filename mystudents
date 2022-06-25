@@ -1,0 +1,22 @@
+---
+- students: 
+  - name: anil
+    phone: 5464145600
+    address: 
+        dn0: 546
+        street: 24th
+        pincode: 548965
+
+  - name: sunil
+    phone: 5245475455
+    address:
+        dno: 213
+        street: 475
+        pincode: 213546
+
+  - name: venil
+    phone: 6448313165
+    address: 
+        drno: 356
+        street: 57th
+        pincode: 789456
