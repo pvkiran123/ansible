@@ -1,6 +1,6 @@
 ---
  -hosts: all
-  become: yes  #execting to insatll apache
+  become: yes  
   tasks: 
    - name: install webserver
      apt:
