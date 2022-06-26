@@ -5,5 +5,5 @@
   - name: install webserver
     yum:
       name: httpd
-      state: latest
+      state: present
     
